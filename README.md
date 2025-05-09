@@ -2,7 +2,7 @@
 
 A full-stack Todo List application built with **React (Vite)** and **Node.js (Express)** that lets users create, edit, delete, and manage tasks. Ideal for learning CRUD operations, RESTful APIs, and deploying client-server architecture.
 
-![TodoList App Screenshot](public/todox.png)
+![TodoList App Screenshot](./public/todox.png)
 
 ## 🚀 Features
 
